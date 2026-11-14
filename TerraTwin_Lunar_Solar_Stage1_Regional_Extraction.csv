@@ -1,0 +1,10 @@
+region,archive_code,candidate_landing_site_count,unique_120m_raster_pixel_count,mean_average_solar_disc_visibility_percent,median_average_solar_disc_visibility_percent,std_average_solar_disc_visibility_percentage_points,min_average_solar_disc_visibility_percent,max_average_solar_disc_visibility_percent,permanent_shadow_pixel_fraction_percent,permanent_shadow_pixel_count,mean_dem_height_relative_reference_sphere_m,median_dem_height_relative_reference_sphere_m,min_dem_height_relative_reference_sphere_m,max_dem_height_relative_reference_sphere_m
+Peak near Cabeus B,PCB,5,4463,37.208,41.64,13.764,0.0,62.98,2.151,96,3310.98,3570.0,1067.5,4598.5
+Haworth,HW,11,8964,28.12,28.524,11.523,0.0,68.6,2.61,234,1443.42,1620.0,440.5,2233.0
+Malapert Massif,MMA,5,4469,37.036,42.044,14.688,0.0,80.516,1.566,70,4392.74,4812.0,2376.0,5172.0
+Mons Mouton Plateau,MMP,11,10234,26.268,28.76,14.827,0.0,57.688,6.459,661,4980.92,5014.0,2861.5,6487.5
+Mons Mouton,MMO,10,8081,33.379,35.796,13.606,0.0,79.964,2.859,231,5894.21,5887.5,4990.0,6461.5
+Nobile Rim 1,NR1,9,4773,41.417,43.552,10.336,0.0,85.804,0.377,18,6477.14,6595.5,5509.0,6798.0
+Nobile Rim 2,NR2,9,8183,32.02,36.632,14.346,0.0,53.88,5.291,433,1042.24,1030.5,336.5,1469.0
+de Gerlache Rim 2,dGR2,7,5711,35.831,36.168,9.292,0.0,78.472,0.158,9,111.36,243.5,-1437.0,1578.5
+Slater Plain,SP,11,9894,25.568,26.024,13.209,0.0,61.576,1.284,127,55.19,79.5,-489.5,458.5
